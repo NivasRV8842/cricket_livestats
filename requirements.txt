@@ -1,0 +1,7 @@
+Required Python packages
+
+1. mysql.connector
+2. streamlit
+3. pandas
+4. requests
+5. plotly.express
