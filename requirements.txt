@@ -5,3 +5,4 @@ Required Python packages
 3. pandas
 4. requests
 5. plotly.express
+6. json
